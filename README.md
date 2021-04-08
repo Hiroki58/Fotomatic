@@ -1,0 +1,2 @@
+# Fotomatic
+CC-project
